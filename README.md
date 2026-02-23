@@ -43,10 +43,7 @@ SQL | Google BigQuery | Looker Studio
 
 # 📊 Ecommerce Sales Performance Analysis (Power BI)
 
-🔗 Interactive Dashboard  
-
-📁 Power BI File  
-[Download the Power BI project](Project-PowerBi.pbix)
+🔗 Interactive Dashboard [Download the interactive dashboard here](https://drive.google.com/file/d/1bMoimQnElxaaz1JOcUfa88blkTBUJg1x/view?usp=sharing)
 
 <img width="777" height="500" alt="image" src="https://github.com/user-attachments/assets/7f8c800b-8961-446c-b118-29cc61df72a4" />
 <img width="774" height="500" alt="image" src="https://github.com/user-attachments/assets/6f5226ce-102a-4b7d-a9e0-5dd6e0da1d7f" />
